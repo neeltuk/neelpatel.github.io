@@ -11,9 +11,9 @@ title                    : "Neel's Homepage"
 title_separator          : "-"
 name                     : &name "Neel Patel"
 description              : &description "CS PhD Student at USC"
-url                      : neelpatel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://neeltuk.github.io/neelpatel.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "neeltuk/neelpatel.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
