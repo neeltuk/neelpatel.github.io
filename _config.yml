@@ -20,17 +20,17 @@ future                   :
 read_more                : 
 talkmap_link             : 
 comments:
-  provider               : 
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
-    server               : 
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
-    num_posts            : 
-    colorscheme          : 
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : 
+  allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
