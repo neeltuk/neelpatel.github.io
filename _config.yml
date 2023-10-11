@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Neel's Homepage"
-title_separator          : "-"
-name                     : &name "Neel Patel"
-description              : &description "personal description"
+title_separator          : 
+name                     : "Neel Patel"
+description              : CS PhD Student 
 url                      : 
 baseurl                  : 
 repository               : 
